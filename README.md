@@ -2,7 +2,7 @@
 ### Note: _Some solutions in this repository may not run without modifcation as certain code or values may have been modified to protect security!_
 
 ## Why the name '10Perfections'?
-It is named after the "Ten Perfections of the Theravadin Buddhist Tradition". Ideals which I attempt to hold myself accountable to so that I may be a better human.
+It is named after the "Ten Perfections of the Theravadin Buddhist Tradition". Ideals which I attempt to hold myself accountable to, so that I may be a better human.
 
 In the Pāli Canon, the Buddhavaṃsa of the Khuddaka Nikāya lists the ten perfections (dasa pāramiyo) as:
 1.	Dāna pāramī: generosity, giving of oneself
