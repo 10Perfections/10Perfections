@@ -1,5 +1,5 @@
 # Welcome to the 10Perfections Code Repository
-### Note: _Some solutions may not run without modifcation as certain code or values may have been modified to protect security!_
+### Note: _Some solutions in this repository may not run without modifcation as certain code or values may have been modified to protect security!_
 
 ## Why the name '10Perfections'?
 It is named after the "Ten Perfections of the Theravadin Buddhist Tradition". Ideals which I attempt to hold myself accountable to so that I may be a better human.
